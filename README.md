@@ -8,7 +8,7 @@ I am a skilled Software Engineer with experience at Settlemint India and Tata Di
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://portfolio-web-two-self.vercel.app/](http://portfolio-web-two-self.vercel.app/)
-* ✉️  You can contact me at [sahilsanskruti11@gmail.com](mailto:sahilsanskruti11@gmail.com)
+* ✉️  You can contact me at [sahiljadhav2769@gmail.com](mailto:sahilsanskruti11@gmail.com)
 * 🤝  I'm open to collaborating on ARVR and App Development
 
 ### Skills
