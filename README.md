@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and App developer
 ---------------------
 
-I am a skilled Software Engineer with experience at Settlemint India and Tata Digital. He specializes in state management, REST API integration, and UI/UX development, having contributed to high-profile apps like Tata Studio, Croma, and Big Basket. Sahil has a strong background in computer vision, data augmentation, and AR/VR development, with projects like NutriVision (a nutrition tracking app) and Time-Table Gen Software (used by college departments). He is proficient in technologies like React, Next.js, Flutter, and Node.js, and has a solid academic foundation with a GPA of 8.8/10 in B.Tech (IT) from DJ Sanghvi College. Sahil is also an active participant in hackathons, achieving notable placements in events like Nexus Hacks and Logithon.
+I am a skilled Software Engineer with experience at Settlemint India and Tata Digital. He specializes in state management, REST API integration, and UI/UX development, having contributed to high-profile apps like Tata Studio, Croma, and Big Basket. I have a hstrong background in computer vision, data augmentation, and AR/VR development, with projects like NutriVision (a nutrition tracking app) and Time-Table Gen Software (used by college departments). I am is proficient in technologies like React, Next.js, Flutter, and Node.js, and has a solid academic foundation with a GPA of 8.8/10 in B.Tech (IT) from DJ Sanghvi College. I am also an active participant in hackathons, achieving notable placements in events like Nexus Hacks and Logithon.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://portfolio-web-two-self.vercel.app/](http://portfolio-web-two-self.vercel.app/)
